@@ -130,7 +130,7 @@ Tenho 23 anos e sou do Rio Grande do Norte. Sou estudante de Análise e Desenvol
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="160" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Victorjudson&show_icons=true&theme=tokyonight" 
   />
