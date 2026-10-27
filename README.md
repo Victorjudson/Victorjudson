@@ -2,7 +2,11 @@
 
 **`Desenvolvedora FullStack`**
 
-Tenho 23 anos e sou do Rio Grande do Norte. Sou estudante de Análise e Desenvolvimento de Sistemas pela Uninter e apaixonado por tecnologia e programação. Atualmente, atuo como desenvolvedor freelancer, criando aplicações web e transformando ideias em soluções digitais. Tenho interesse em desenvolvimento full stack, boas práticas de programação e na construção de sistemas que gerem impacto real para pessoas e organizações. 
+Sou estudante de Análise e Desenvolvimento de Sistemas pela Uninter, do Rio Grande do Norte, e atuo como desenvolvedor freelancer, criando aplicações web e soluções digitais para pessoas e organizações.
+
+Tenho experiência prática com desenvolvimento de sistemas, bancos de dados SQL, integração de APIs e manutenção de aplicações. Gosto de investigar problemas, otimizar processos e utilizar a tecnologia para tornar tarefas mais eficientes.
+
+Além do desenvolvimento de software, tenho interesse em análise de dados, automação de processos e inteligência de negócios, buscando ampliar meus conhecimentos e construir soluções que contribuam para melhores decisões e resultados reais. 
 
 <p align="left">
     <a href="https://github.com/Viictorjudson?tab=repositories&sort=stargazers">
